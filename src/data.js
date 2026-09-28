@@ -6,7 +6,7 @@ export const me = {
   links: [
     { label: "GitHub", href: "https://github.com/dishanthj" },
     { label: "LinkedIn", href: "https://www.linkedin.com/in/dishanth-j" },
-    { label: "Resume (PDF)", href: "resume (12).pdf" },
+    { label: "Resume (PDF)", href: "resume.pdf" },
   ],
 };
 
